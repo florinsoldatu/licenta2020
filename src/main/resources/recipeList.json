@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "name": "Vegetarian Lasagna",
+      "description": "Vegetarian Lasagna",
+      "mealTypes": ["lunch"],
+      "occasions": ["weekend", "family"],
+      "specialDiets": ["vegetarian"],
+      "ingredients": ["tomatoes", "eggplant", "mozarella"],
+      "imageUrl": "https://secure.telegraph.co.uk/content/dam/emailing/Editorialnewsletterthumbnails/beauty.png"
+    },
+    {
+      "name": "Vegan omlette",
+      "description": "Vegan omlette",
+      "mealTypes": ["breakfast","brunch"],
+      "occasions": ["weekend", "weekday", "family"],
+      "specialDiets": ["vegan", "gluten-free"],
+      "ingredients": ["chickpea", "tomatoes", "carrot", "zucchini"],
+      "imageUrl": "https://secure.telegraph.co.uk/content/dam/emailing/Editorialnewsletterthumbnails/beauty.png"
+    },
+    {
+      "name": "Summer Ratatouille",
+      "description": "summer ratatouille",
+      "mealTypes": ["lunch","dinner"],
+      "occasions": ["weekend", "family"],
+      "specialDiets": ["vegan", "gluten-free", "light"],
+      "ingredients": ["tomatoes", "carrot", "zucchini"],
+      "imageUrl": "https://secure.telegraph.co.uk/content/dam/emailing/Editorialnewsletterthumbnails/beauty.png"
+    },
+    {
+      "name": "Broccoli sotee",
+      "description": "broccoli sotee",
+      "mealTypes": ["lunch","dinner"],
+      "occasions": ["weekday"],
+      "specialDiets": ["vegetarian", "gluten-free", "light"],
+      "ingredients": ["broccoli", "almonds", "butter"],
+      "imageUrl": "https://secure.telegraph.co.uk/content/dam/emailing/Editorialnewsletterthumbnails/beauty.png"
+    },
+    {
+      "name": "Quinoa with vegetables",
+      "description": "quinoa with vegetables",
+      "mealTypes": ["lunch","dinner"],
+      "occasions": ["weekday", "weekend"],
+      "specialDiets": ["vegetarian", "gluten-free", "vegan"],
+      "ingredients": ["quinoa", "peas", "carrot"],
+      "imageUrl": "https://secure.telegraph.co.uk/content/dam/emailing/Editorialnewsletterthumbnails/beauty.png"
+    }
+  ]
+}
